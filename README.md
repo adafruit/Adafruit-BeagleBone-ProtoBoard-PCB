@@ -1,4 +1,4 @@
-# Adafruit Proto Cape Kit for Beagle Bone & Beagle Bone Black
+## Adafruit Proto Cape Kit for Beagle Bone & Beagle Bone Black
 
 <a href="http://www.adafruit.com/products/572"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop
